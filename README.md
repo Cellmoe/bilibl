@@ -14,6 +14,3 @@
 地区：香港 大陆
 
 ## 页面在就是还能用😁
-## 捐赠<center>
-<p align="center">微信赞赏码</p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/xwwbest/img@master/imgs/c8ec89e365969e2b58ea1ad6496103e.36rnwr9g3440.jpg" width="auto" height="auto"/></p>
